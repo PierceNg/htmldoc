@@ -1,0 +1,12 @@
+HTMLDoc plugin
+==============
+
+You can write a HTML file typing tags. But in particular situations, you could desire to build HTML documents coding directly in Object Pascal.
+For this purpose, you have HTMLDoc through which you can write headers, body with links and other relevant tags. And everything using only the frendly syntax of Object Pascal.
+
+Installation
+============
+
+1. Open the package "htmldocpkg.lpk", in the dialog that opens, click in "Use >>" and "Add to Project";
+
+Enjoy!
