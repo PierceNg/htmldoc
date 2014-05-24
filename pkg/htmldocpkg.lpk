@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <Package Version="4">
     <PathDelim Value="\"/>
@@ -21,7 +21,7 @@
     <Description Value="You can write a HTML file typing tags. But in particular situations, you could desire to build HTML documents coding directly in Object Pascal.
 For this purpose, you have HTMLDoc through which you can write headers, body with links and other relevant tags. And everything using only the frendly syntax of Object Pascal."/>
     <License Value="Please see the LICENSE file."/>
-    <Version Release="1"/>
+    <Version Major="1"/>
     <Files Count="1">
       <Item1>
         <Filename Value="..\src\htmldoc.pas"/>
